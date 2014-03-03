@@ -1,0 +1,19 @@
+{
+    "name": "binarta.calendar.events.localstoragex.angular",
+    "main": "./src/calendar.events.localstoragex.js",
+    "dependencies": {
+        "angular": "1.2.5",
+        "binarta.web.storage.angular":"0.0.*"
+    },
+    "devDependencies": {
+        "angular-mocks": "1.2.5",
+        "momentjs":"*"
+    },
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ]
+}
